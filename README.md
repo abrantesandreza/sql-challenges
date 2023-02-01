@@ -1,6 +1,7 @@
 SQL CHALLENGES
 
 
+
 1 - Preciso do nome completo de todos os meus funcionarios, suas respectivas datas de nascimento e qual o seu cargo na empresa.
 
 2 - Preciso do nome e do endereço completo de todos os meus funcionarios que moram. na California
